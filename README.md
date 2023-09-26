@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm czeopauli 👋
+
+- 🌱 I’m currently learning at Coding Bootcamp Europe
+- :globe_with_meridians: I'm intrested in world of technolgy and the tech industry
+- :octocat: Looking forward to connecting!  
+  
 
 <!--
 **czeopauli/czeopauli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
