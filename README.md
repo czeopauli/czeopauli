@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning at Coding Bootcamp Europe
 - :globe_with_meridians: I'm interested in the world of technolgy and the tech industry
-- :octocat: Looking forward to connecting!  
+- :octocat: Looking forward to connect!  
   
 
 <!--
