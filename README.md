@@ -1,7 +1,7 @@
 ### Hi there, I'm czeopauli 👋
 
 - 🌱 I’m currently learning at Coding Bootcamp Europe
-- :globe_with_meridians: I'm interested in the world of technolgy and the tech industry
+- :globe_with_meridians: I'm interested in the world of technolgy 
 - :octocat: Looking forward to connect!  
   
 
