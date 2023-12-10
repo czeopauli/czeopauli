@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently diving into the coding world at Coding Bootcamp Europe.
 - :globe_with_meridians: Curious about the vast world of technology.
-- 🔗 Let's connect and explore this coding jungle together – and who knows, maybe we'll swap some beginner stories along the way. 
+- 🔗 Let's connect and explore this coding jungle together – perhaps share some beginner stories.
   
 
 <!--
